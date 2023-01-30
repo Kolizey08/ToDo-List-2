@@ -1,0 +1,28 @@
+#body {
+    display: flex;
+    justify-content: center;
+}
+
+#list {
+    margin-top: 5%;
+}
+
+#inp {
+    height: 40px;
+    width: 400px;
+    border-radius: 10px;
+    border-color: #ae3737;
+    font-size: 20px;
+}
+#btn {
+    font-size: 20px;
+    height: 45px;
+    color: #ae3737;
+    border-radius: 10px;
+    border-color: #ae3737;
+}
+
+#ul {
+    font-size: 20px;
+}
+
